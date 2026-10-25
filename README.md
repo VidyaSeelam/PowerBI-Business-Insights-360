@@ -89,3 +89,7 @@ As shown in the attached screenshots, the project contains a fully interactive P
 ---
 
 ## 📁 Repository Contents
+
+**Author:** Vidya Seelam  
+**Project:** Business Insights 360  
+**Dataset Credit:** Codebasics.io
