@@ -93,3 +93,21 @@ As shown in the attached screenshots, the project contains a fully interactive P
 **Author:** Vidya Seelam  
 **Project:** Business Insights 360  
 **Dataset Credit:** Codebasics.io
+
+
+## 📸 Dashboard Views
+
+### 1. Home Page - Navigation
+![BI 360 Home Page](BI%20360%20Home%20Page.png)
+
+### 2. Finance View - P&L Statement
+![Finance View](Finance%20View.png)
+
+### 3. Sales View - Performance Analysis
+![Sales View](Sales%20View.png)
+
+### 4. Marketing View - Campaign Analysis
+![Marketing View](Marketing%20View.png)
+
+### 5. Supply Chain View - Forecast Accuracy
+![Supply Chain View](Supply%20Chain%20View.png)
