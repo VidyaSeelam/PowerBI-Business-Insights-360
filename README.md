@@ -82,7 +82,7 @@ As shown in the attached screenshots, the project contains a fully interactive P
 
 ## 📂 How to Navigate
 
-1.  Start from `Home Page of Dashboards.pdf` - Click on any icon to navigate
+1.  Start from `Home Page of Dashboards.png` - Click on any icon to navigate
 2.  Each View (Finance, Sales, Marketing, Supply Chain) has its own detailed analysis
 3.  All reports have filters for Fiscal Year, Market, and Division
 
